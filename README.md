@@ -1,7 +1,7 @@
 # 🏛️ DPR RI Dashboard (2024–2029)
-s.d 13 Mei 2024
+s.d 13 Mei 2025
 
-Dashboard interaktif yang menyajikan visualisasi profil lengkap anggota DPR RI periode 2024–2029, berdasarkan data yang diperoleh melalui scraping dari situs resmi DPR RI dan Wikipedia.
+Dashboard interaktif yang menyajikan visualisasi profil lengkap anggota DPR RI periode 2024–2029, berdasarkan data yang diperoleh melalui scraping dari situs Wikipedia.
 
 ## 📊 Fitur Dashboard
 - Distribusi anggota berdasarkan:
